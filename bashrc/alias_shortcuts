@@ -1,0 +1,11 @@
+# Alias's for shortcuts.
+
+alias exodus="cd ~/Exodus/"
+alias programmingGeneral="cd ~/Exodus/ProgrammingGeneral"
+alias sophmoreYearWork="cd ~/Exodus/SchoolAndWork/college/SophmoreFirstSemester/"
+alias jYearWork="cd ~/Exodus/SchoolAndWork/college/jYearWork"
+alias bitmusic="cd ~/Exodus/BitMusic/"
+alias backgrounds="cd ~/Exodus/Backgrounds/"
+alias collection="cd ~/Exodus/Collections"
+alias scripts="cd ~/Scripts"
+alias videos="cd ~/Exodus/Videos/"

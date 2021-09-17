@@ -1,0 +1,5 @@
+# Script Setups for bash, python, and latex.
+
+alias bScript="cp ~/Scripts/ScriptInit/bScript.sh ."
+alias pScript="cp ~/Scripts/ScriptInit/pScript.sh ."
+alias lScript="cp ~/Scripts/ScriptInit/lScript.sh ."

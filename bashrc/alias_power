@@ -1,0 +1,4 @@
+# Alias power commands.
+
+alias sip="systemctl suspend";
+alias sap="poweroff";

@@ -1,0 +1,6 @@
+# Set export variables.
+
+export VISUAL=vim;
+export EDITOR=vim;
+export BROWSER=brave;
+export TERM=termite;

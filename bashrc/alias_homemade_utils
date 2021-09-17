@@ -1,0 +1,10 @@
+# Alias homemade utilities.
+
+alias audioD="bash ~/Scripts/audioDownload.sh"
+alias videoD="bash ~/Scripts/videoDownload.sh"
+alias note="bash ~/Scripts/notes.sh"
+alias upTime="bash ~/Scripts/i3blocks/UpDownTime/UpTime.sh"
+alias downTime="bash ~/Scripts/i3blocks/UpDownTime/DownTime.sh"
+alias pia="bash ~/Downloads/pia-linux-2.9-06393.run"
+alias startDisplayPort="bash ~/Scripts/Monitors/DisplayPort0Restart.sh"
+alias startHDMI="bash ~/Scripts/Monitors/startHDMI-0.sh"

@@ -1,0 +1,5 @@
+# Alias common SSH commands
+
+alias startss="sudo systemctl start sshd"
+alias stopss="sudo systemctl stop sshd"
+alias statuss="sudo systemctl status sshd"
